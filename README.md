@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=victorjambo&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 **victorjambo/victorjambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
