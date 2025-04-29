@@ -2,6 +2,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=victorjambo&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
+[![wakatime](https://wakatime.com/badge/user/0c0524af-38b5-456e-a3c1-4b86181f472a.svg)](https://wakatime.com/@0c0524af-38b5-456e-a3c1-4b86181f472a)
+
 <!--
 **victorjambo/victorjambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
